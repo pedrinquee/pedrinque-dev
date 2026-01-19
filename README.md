@@ -1,8 +1,8 @@
-# 👋 Olá, sou Pedro Lombardi
+# 👋 Pedro Lombardi
 
-Técnico em Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por desenvolvimento web e mobile.
+Técnico em ADS. Desenvolvedor web e mobile.
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,11 +21,8 @@ Técnico em Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por desenvo
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-lombardi&show_icons=true&theme=radical&hide_border=true)
-
 ## 📫 Contato
 
-- 📧 **Email**: [pedro.lombardi290@gmail.com](mailto:pedro.lombardi290@gmail.com)
-- 💼 **LinkedIn**: [Pedro Lombardi](https://www.linkedin.com/in/pedro-lombardi-7781522b7/)
-- 📸 **Instagram**: [@pedro.augg](https://www.instagram.com/pedro.augg/)
+- 📧 [pedro.lombardi290@gmail.com](mailto:pedro.lombardi290@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-lombardi-7781522b7/)
+- 📸 [Instagram](https://www.instagram.com/pedro.augg/)
