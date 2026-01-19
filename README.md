@@ -1,6 +1,6 @@
 # 👋 Pedro Lombardi
 
-Técnico em ADS. Desenvolvedor web e mobile.
+Técnico em ADS. Desenvolvedor fullstack.
 
 ## 🛠️ Tecnologias
 
