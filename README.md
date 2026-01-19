@@ -1,4 +1,4 @@
-# 👋 Pedro Lombardi
+# 👋 Olá, meu nome é Pedro Lombardi!
 
 Técnico em ADS. Desenvolvedor fullstack.
 
